@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "360265571862",
+    "project_id": "aula-produto-1bf2e",
+    "storage_bucket": "aula-produto-1bf2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360265571862:android:7756f875a1173997f59f37",
+        "android_client_info": {
+          "package_name": "com.example.aula_firestore_produto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360265571862-9akq6nrv3udjcvpfh8jk8ns1ghgbvdfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUs1j3EebXTJ6N7SB_KKLHiOvv4GRLmEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360265571862-9akq6nrv3udjcvpfh8jk8ns1ghgbvdfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
